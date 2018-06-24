@@ -1,3 +1,5 @@
+// Life is its own reason for being. It is beautiful to have a sense of beauty.
+
 // You are the delta in what you do, not the things you did in the past
 
 /*
