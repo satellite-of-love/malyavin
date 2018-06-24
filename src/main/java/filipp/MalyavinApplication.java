@@ -26,3 +26,4 @@ public class MalyavinApplication {
 		SpringApplication.run(MalyavinApplication.class, args);
 	}
 }
+// build please
